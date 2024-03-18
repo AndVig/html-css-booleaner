@@ -29,12 +29,20 @@ h1{
     margin: auto;
     font-weight:600;
 }
-
-
+.tspacesmall{
+    inline-size: 25%;
+}
+.tspacebig{
+    inline-size: 50%;
+}
 .blue{
     background-color:dodgerblue;
 }
-
+table{
+    border-collapse: collapse;
+    margin-left: 10%;
+    margin-right: 20%;
+}
 .graytxt{
     color: gray;
 }
