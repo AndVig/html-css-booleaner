@@ -16,7 +16,14 @@ h1{
     font-weight: 800;
     margin-bottom: 10px;
 }
-
+.text1{
+    font-size: 25px;
+    padding-right: 20%;
+}
+.text2{
+    font-size: 15px;
+    padding-right: 20%;
+}
 .caption{
     padding-top: 0px;
     margin: auto;
