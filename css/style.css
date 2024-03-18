@@ -1,15 +1,39 @@
 header{
     background-image:url(../img/pattern.png) ;
     background-repeat: repeat;
-    padding-left: 100px;
+    
     padding-top: 100px;
     
 }
+.lspace{
+    padding-left: 10%;
+}
+.rspace{
+    padding-right: 30%;
+}
+h1{
+    font-size:40px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+
+.caption{
+    padding-top: 0px;
+    margin: auto;
+    font-weight:600;
+}
+
 
 .blue{
     background-color:dodgerblue;
 }
 
+.graytxt{
+    color: gray;
+}
+.bluetxt{
+    color: aqua;
+}
 .turquoise{
     background-color: turquoise;
 }
