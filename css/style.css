@@ -1,0 +1,15 @@
+header{
+    background-image:url(../img/pattern.png) ;
+    background-repeat: repeat;
+    padding-left: 100px;
+    padding-top: 100px;
+    
+}
+
+.blue{
+    background-color:dodgerblue;
+}
+
+.turquoise{
+    background-color: turquoise;
+}
