@@ -1,0 +1,75 @@
+header{
+    background-image:url(../img/pattern.png) ;
+    background-repeat: repeat;
+    
+    padding-top: 100px;
+    
+}
+
+.preview1{
+    background-image: url(../img/monitor.jpg);
+    width: 250px;
+    height: 250px;
+    color: white;
+    padding-left: 5%;
+    padding-top: 1%;
+}
+.preview2{
+    background-image: url(../img/graph.jpg);
+    width: 250px;
+    height: 250px;
+    color: white;
+    padding-left: 5%;
+    padding-top: 1%;
+
+}
+.lspace{
+    padding-left: 10%;
+}
+.rspace{
+    padding-right: 30%;
+}
+h1{
+    font-size:40px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+.text1{
+    font-size: 25px;
+    padding-right: 20%;
+}
+.text2{
+    font-size: 15px;
+    padding-right: 20%;
+}
+.caption{
+    padding-top: 0px;
+    margin: auto;
+    font-weight:600;
+}
+.tspacesmall{
+    inline-size: 25%;
+}
+.tspacebig{
+    inline-size: 50%;
+}
+.blue{
+    background-color:dodgerblue;
+}
+table{
+    border-collapse: collapse;
+    
+    margin-right: 20%;
+}
+.graytxt{
+    color: gray;
+}
+.bluetxt{
+    color: aqua;
+}
+.turquoise{
+    background-color: turquoise;
+}
+.yellowEv{
+    background-color: yellow;
+}
