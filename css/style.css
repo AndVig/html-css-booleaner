@@ -5,6 +5,24 @@ header{
     padding-top: 100px;
     
 }
+
+.preview1{
+    background-image: url(../img/monitor.jpg);
+    width: 250px;
+    height: 250px;
+    color: white;
+    padding-left: 5%;
+    padding-top: 1%;
+}
+.preview2{
+    background-image: url(../img/graph.jpg);
+    width: 250px;
+    height: 250px;
+    color: white;
+    padding-left: 5%;
+    padding-top: 1%;
+
+}
 .lspace{
     padding-left: 10%;
 }
@@ -40,7 +58,7 @@ h1{
 }
 table{
     border-collapse: collapse;
-    margin-left: 10%;
+    
     margin-right: 20%;
 }
 .graytxt{
@@ -51,4 +69,7 @@ table{
 }
 .turquoise{
     background-color: turquoise;
+}
+.yellowEv{
+    background-color: yellow;
 }
